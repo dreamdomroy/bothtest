@@ -1,0 +1,7 @@
+flask
+requests
+gspread
+oauth2client
+configparser
+line-bot-sdk
+google-cloud-storage
